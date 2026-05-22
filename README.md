@@ -6,13 +6,13 @@ Incluye código fuente organizado en la carpeta `src/` y archivos de configuraci
 ---
 
 ## 📂 Estructura del repositorio
-
 examenes_matrices/
 ├── .idea/
 ├── src/
 ├── .gitignore
 ├── Matrices.iml
 └── README.md
+
 
 ---
 
