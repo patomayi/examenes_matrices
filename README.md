@@ -8,11 +8,11 @@ Incluye código fuente organizado en la carpeta `src/` y archivos de configuraci
 ## 📂 Estructura del repositorio
 
 examenes_matrices/
-├── .idea/              # Configuración del proyecto (IntelliJ)
-├── src/                # Código fuente en Java
-├── .gitignore          # Archivos ignorados por Git
-├── Matrices.iml        # Archivo de módulo de IntelliJ
-└── README.md           # Este archivo
+├── .idea/
+├── src/
+├── .gitignore
+├── Matrices.iml
+└── README.md
 
 ---
 
