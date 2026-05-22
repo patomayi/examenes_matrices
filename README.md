@@ -6,6 +6,8 @@ Incluye código fuente organizado en la carpeta `src/` y archivos de configuraci
 ---
 
 ## 📂 Estructura del repositorio
+
+```text
 examenes_matrices/
 ├── .idea/
 ├── src/
