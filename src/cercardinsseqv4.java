@@ -20,9 +20,9 @@ public class cercardinsseqv4 {
         }
 
 
-         sc.nextLine(); // consumir el salto de línea que queda
-         String linea = sc.nextLine(); // última línea con todas las palabras
-         String[] palabras = linea.split(" ");
+        sc.nextLine(); // consumir el salto de línea que queda
+        String linea = sc.nextLine(); // última línea con todas las palabras
+        String[] palabras = linea.split(" ");
 
         for (int i = 0; i < f1; i++) {
             for (int j = 0; j < c1; j++) {
@@ -41,8 +41,9 @@ public class cercardinsseqv4 {
                 System.out.println(letra + " " + contador);
             }
         }
-
-         /*
+    }
+}
+/*
          String palabra = null;
          for (int i = 0; i < f1; i++) {
          for (int j = 0; j < c1; j++) {
@@ -54,9 +55,6 @@ public class cercardinsseqv4 {
          }
          }
          */
-
-    }
-}
 /*
 import java.util.Locale;
 import java.util.Scanner;
